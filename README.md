@@ -1,4 +1,7 @@
 # NYC Taxi Demand Forecasting & Analytics Platform
+**Live Demo:** [NYC Taxi Intelligence](https://nyc-taxi-intelligence.streamlit.app/)
+
+**GitHub Repository:** [View Source Code](https://github.com/yyyyyyy74/nyc-taxi-demand)
 
 ### End-to-End Data Science | SQL | Machine Learning | Streamlit
 
@@ -315,11 +318,9 @@ The repository includes the small processed datasets required by the dashboard.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yyyyyyy74/nyc-taxi-demand.git
 cd nyc-taxi-demand
 ```
-
-Replace `<repository-url>` with the GitHub repository URL after publication.
 
 ### Step 2: Install Dependencies
 
